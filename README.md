@@ -21,6 +21,6 @@ The Chicago and New York City files also have the following two columns:
 * Birth Year
 
 <p align="center">
-![alt text](https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
+  <img src="https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png">
 Data for the first 10 rides in the **new_york_city.csv** file
 </p>
