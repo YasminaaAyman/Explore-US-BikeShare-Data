@@ -19,4 +19,4 @@ The Chicago and New York City files also have the following two columns:
 
 * Gender
 * Birth Year
-
+![alt text](https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
